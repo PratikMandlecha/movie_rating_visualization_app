@@ -1,7 +1,7 @@
 # Streamlit Altair app for Movie Rating and recommendation visualization
 
 * **Team members**: pmandlec@andrew.cmu.edu
-* **Online URL**: https://cmu-ids-spring-2023-assignment-3-viz-wizar-streamlit-app-7gtz01.streamlit.app/#qn-give-me-the-names-and-working-hours-of-restaurants-in-philadelphia-located-at-postal-code-19107-with-average-rating-greater-than-3-2
+* **Online URL**: https://pratikmandlecha-movie-rating-visualizati-streamlit-movie-5yjpjp.streamlit.app/
 ## Instructions
 
 ### Run Locally
