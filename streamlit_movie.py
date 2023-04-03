@@ -51,3 +51,11 @@ if st.button("Get random rating"):
     mini_df = df.head(1000)
     movie = mini_df.sample(n=1).iloc[0]
     st.write(f"""The movie {movie['movie_id']} has a rating of {movie['ratings']} given by user {movie['user_id']} at {movie['timestamp']}""")
+
+footer_container = st.container()
+
+
+footer_container.markdown(
+    f'<p style="font-family: cursive; font-size: 20px; text-align: center;">This page is created by Pratik Mandlecha</p>',
+    unsafe_allow_html=True
+)
